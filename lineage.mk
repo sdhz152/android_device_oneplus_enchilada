@@ -43,3 +43,5 @@ PRODUCT_SYSTEM_PROPERTY_BLACKLIST += \
     ro.product.model
 
 BUILD_FINGERPRINT := OnePlus/OnePlus6/OnePlus6:8.1.0/OPM1.171019.011/1807130046:user/release-keys
+
+WITH_SU := true
